@@ -6,6 +6,3 @@ LaraMall is an experimental web app which focuses on buyers instead of sellers. 
 ## Contributing
 Contributions and suggestions to improve the app are always welcome. 
 
-## License
-
-MIT © Adam Lukman Tungtaiya
